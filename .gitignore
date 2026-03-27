@@ -15,10 +15,3 @@ venv/
 artifacts/
 reports/
 
-# Private planning/source docs
-PRD-Minh-MVP.md
-Research-Minh.rtf
-TechDesign-Minh-MVP.md
-
-# Cursor
-.cursor/
