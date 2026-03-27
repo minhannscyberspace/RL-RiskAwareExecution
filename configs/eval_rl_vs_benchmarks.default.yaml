@@ -1,0 +1,12 @@
+algo: ppo
+model_path: ""
+reports_dir: reports
+data_path: ""
+series_len: 240
+train_len: 80
+test_len: 40
+step: 40
+order_size: 30000.0
+terminal_penalty: 20.0
+reward_scale: 500.0
+idle_penalty: 2.0
